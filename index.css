@@ -1,0 +1,27 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body{
+    background-color: #093824;
+}
+.btn-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  width: 100vw;
+}
+
+.btn-div a{
+    background-color: #e5eafa;
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    padding: 1em;
+    border-radius: 1em;
+    border: 2px solid black;
+    
+}
